@@ -15,5 +15,8 @@ hello git!
 hello git!
 hello git!
 hello git!
+<<<<<<< HEAD
 我是master
 
+=======
+>>>>>>> hot-fix
